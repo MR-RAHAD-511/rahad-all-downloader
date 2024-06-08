@@ -1,0 +1,44 @@
+{
+  "name": "rahad-all-downloader",
+  "version": "2.1.2",
+  "description": "Fetch URL Downloads From YouTube, Facebook, TikTok, Instagram, Twitter, Google Drive, Capcut",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MR-RAHAD-511/rahad-all-downloader.git"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "media",
+    "link",
+    "tiktok",
+    "video",
+    "fbdownload",
+    "download",
+    "facebook",
+    "rahad",
+    "ytdl",
+    "YouTube video download",
+    "api",
+    "any video download api",
+    "rahad",
+    "Rahad",
+    "rahad-media-downloader",
+    "rahad-all-downloader"
+  ],
+  "author": "RAHAD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MR-RAHAD-511/rahad-all-downloader/issues"
+  },
+  "homepage": "https://github.com/MR-RAHAD-511/rahad-all-downloader#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "node-fetch": "^3.3.2",
+    "request": "^2.88.2"
+  }
+}
