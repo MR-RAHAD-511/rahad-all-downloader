@@ -67,18 +67,17 @@ This package is under development, and many exciting features are planned for fu
 ## Contributing
 
 We welcome contributions! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. If you want to contact me, check my [GitHub profile](https://github.com/MR-RAHAD-511).
-<a name="projects-using-this-api"></a>
-198# developer information 
-199#### 𝗡𝗮𝗺𝗲         : 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗥𝗮𝗵𝗮𝗱
-200#### 𝗥𝗲𝗹𝗶𝗴𝗶𝗼𝗻    : (𝗜𝘀𝗹𝗮𝗺)
-201#### 𝗣𝗲𝗿𝗺𝗮𝗻𝗲𝗻𝘁 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : (𝗗𝗵𝗮𝗸𝗮)
-202#### 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 :𝗦𝗵𝗮𝗵𝗿𝗮𝘀𝘁𝗶 𝗖𝗵𝗮𝗻𝗱𝗽𝘂𝗿
-203#### 𝗚𝗲𝗻𝗱𝗲𝗿     : (𝗠𝗮𝗹𝗲)
-204#### 𝗔𝗴𝗲            :  (𝟮𝟬)
-205#### 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀𝗵𝗶𝗽 : (𝗦𝗶𝗻𝗴𝗹𝗲)
-206#### 𝗚𝗺𝗮𝗶𝗹        :  mdrahadhossain00@gmail.com
-207#### 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺  : t.me/rabbyhosainRahad
-208### [Facebook](https://www.facebook.com/www.xnx.com.9)
-209
-210<a name="projects-using-this-api"></a> 
+
+# developer information 
+#### 𝗡𝗮𝗺𝗲         : 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗥𝗮𝗵𝗮𝗱
+#### 𝗥𝗲𝗹𝗶𝗴𝗶𝗼𝗻    : (𝗜𝘀𝗹𝗮𝗺)
+#### 𝗣𝗲𝗿𝗺𝗮𝗻𝗲𝗻𝘁 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : (𝗗𝗵𝗮𝗸𝗮)
+#### 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 :𝗦𝗵𝗮𝗵𝗿𝗮𝘀𝘁𝗶 𝗖𝗵𝗮𝗻𝗱𝗽𝘂𝗿
+#### 𝗚𝗲𝗻𝗱𝗲𝗿     : (𝗠𝗮𝗹𝗲)
+#### 𝗔𝗴𝗲            :  (𝟮𝟬)
+#### 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀𝗵𝗶𝗽 : (𝗦𝗶𝗻𝗴𝗹𝗲)
+#### 𝗚𝗺𝗮𝗶𝗹        :  mdrahadhossain00@gmail.com
+#### 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺  : t.me/rabbyhosainRahad
+### [Facebook](https://www.facebook.com/www.xnx.com.9)
+ 
 Copyright © 2024 Mohammad Rahad
