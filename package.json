@@ -1,6 +1,6 @@
 {
   "name": "rahad-all-downloader",
-  "version": "2.1.2",
+  "version": "2.1.5",
   "description": "Fetch URL Downloads From YouTube, Facebook, TikTok, Instagram, Twitter, Google Drive, Capcut",
   "main": "index.js",
   "scripts": {
