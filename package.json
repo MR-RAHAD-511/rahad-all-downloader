@@ -1,7 +1,7 @@
 {
   "name": "rahad-all-downloader",
-  "version": "2.1.5",
-  "description": "Fetch URL Downloads From YouTube, Facebook, TikTok, Instagram, Twitter, Google Drive, Capcut",
+  "version": "2.1.12",
+  "description": "Fetch URL Downloads From YouTube, Facebook, TikTok, Instagram, Twitter, Google Drive, threads, Capcut, terabox",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -28,7 +28,23 @@
     "rahad",
     "Rahad",
     "rahad-media-downloader",
-    "rahad-all-downloader"
+    "rahad-all-downloader",
+    "terabox",
+    "Instagram",
+    "Facebook",
+    "Tiktok",
+    "Twitter",
+    "GoogleDrive",
+    "Capcut",
+    "Youtube",
+    "YouTube",
+    "threads.net",
+    "threads",
+    "threads.com",
+    "threads.org",
+    "threads video download",
+    "threads voise download",
+    "threads downloader"
   ],
   "author": "RAHAD",
   "license": "MIT",
@@ -39,6 +55,8 @@
   "dependencies": {
     "axios": "^1.6.8",
     "node-fetch": "^3.3.2",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "rahad-media-downloader": "^2.1.14",
+    "html-entities": "^2.5.2"
   }
 }
