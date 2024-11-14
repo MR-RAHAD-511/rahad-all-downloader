@@ -1,4 +1,3 @@
-
 <h3 align="center">
 
   <p align="center"><img src="https://img.shields.io/badge/WLCM%20TO -RAHAD All DOWNLOADER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
@@ -23,7 +22,7 @@
 ```js
 const { alldl } = require('rahad-all-downloader');
 
-const videoUrl = ''; // Insert a supported URL from YouTube, Facebook, TikTok, Instagram, Twitter, Google Drive, or Capcut.
+const videoUrl = ''; // Insert a supported URL from YouTube, Facebook, TikTok, Instagram, Twitter, threads, google Drive, or Capcut.
 
 async function downloadVideo(url) {
   try {
