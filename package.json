@@ -1,6 +1,6 @@
 {
   "name": "rahad-all-downloader",
-  "version": "2.1.12",
+  "version": "2.1.16",
   "description": "Fetch URL Downloads From YouTube, Facebook, TikTok, Instagram, Twitter, Google Drive, threads, Capcut, terabox",
   "main": "index.js",
   "scripts": {
@@ -57,6 +57,8 @@
     "node-fetch": "^3.3.2",
     "request": "^2.88.2",
     "rahad-media-downloader": "^2.1.14",
-    "html-entities": "^2.5.2"
+    "html-entities": "^2.5.2",
+    "yt-search": "^2.12.1"
+    
   }
 }
