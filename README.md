@@ -22,7 +22,7 @@
 ```js
 const { alldl } = require('rahad-all-downloader');
 
-const videoUrl = ''; // Insert a supported URL from YouTube, Facebook, TikTok, Instagram, Twitter, threads, google Drive, or Capcut.
+const videoUrl = ''; // Insert a supported URL from YouTube, Facebook, TikTok, Instagram, Twitter, threads, likee,google Drive, or Capcut.
 
 async function downloadVideo(url) {
   try {
